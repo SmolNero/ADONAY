@@ -1,4 +1,4 @@
-# 🪞 Adonay
+#  Adonay
 
 **Adonay** is a ritual terminal for emotional truth.
 
@@ -19,9 +19,9 @@ The code, structure, and logic are actively evolving with deep care and intentio
 ## Features
 
 - 🌀 Input how you feel in the moment
-- 🌿 Receive a mood-aligned ritual or prompt
-- 📓 Log entries in a simple, timestamped journal
-- 🔮 Optionally define your own moods and ritual mappings
+- 🌀 Receive a mood-aligned ritual or prompt
+- 🌀 Log entries in a simple, timestamped journal
+- 🌀 Optionally define your own moods and ritual mappings
 
 ---
 
@@ -32,16 +32,16 @@ Rather than solving problems, it enables *expression* of emotional and symbolic 
 
 ---
 
-## 🧠 Intentional Programming + Adonay
+##  Intentional Programming + Adonay
 
-### 🪞 What Is Intentional Programming?
+###  What Is Intentional Programming?
 
 At its heart, intentional programming separates **what you mean** (your *intention*) from **how it’s executed** in code. It enables:
 - **Declarative input**
 - **Editable semantic meaning**
 - **User-defined logic layered over shared systems**
 
-### 🌿 How We Integrate It Into Adonay
+### How We Integrate It Into Adonay
 
 | Layer | Example | Implementation Idea |
 |-------|---------|----------------------|
@@ -53,7 +53,7 @@ At its heart, intentional programming separates **what you mean** (your *intenti
 
 ---
 
-## 💡 Future Possibilities
+## Future Possibilities
 
 - Build an **intent language parser** (like: `today: hazy, directionless → seek solitude`)
 - Introduce **templated mood archetypes** (e.g. `mystic`, `burned out`, `inspired`)
